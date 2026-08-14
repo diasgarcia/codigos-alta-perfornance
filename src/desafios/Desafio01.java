@@ -1,4 +1,5 @@
-public class desafio01 {
+package desafios;
+public class Desafio01 {
     public static void main(String[] args) throws Exception {
 
         int numero = 123;
